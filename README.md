@@ -13,3 +13,9 @@ To see the result, clone the repo and open `poster.html` in any browser.
 3. plan basic structure of page
 4. ensure basic page renders well on any screen size
    1. this means creating a container within the page whose proportions won't change
+5. add text (no specific font for now)
+6. create Solaris logo
+   1. HTML canvas?
+7. create vortex
+8. select suitable fonts
+9. add blotches around vortex
