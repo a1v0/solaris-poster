@@ -3,3 +3,7 @@
     --tan: #fdddb3;
     --vortex-primary: #f4ead0;
 }
+
+main {
+    background-color: var(--brown);
+}
